@@ -18,7 +18,7 @@
 ### :man_technologist: About Me :
 I am a  self-taught Android Developer from Russia.
 
-- :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&bcc=mukovozovo19281@gmail.com)
+- :mailbox:How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=mukovozovo19281@gmail.com)
 
 ---
 
